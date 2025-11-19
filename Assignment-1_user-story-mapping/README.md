@@ -1,4 +1,4 @@
-[![Button: Takes you back to the main page](https://img.shields.io/badge/%3C%20Back%20to%20Main-325A9A?style=flat&logoColor=325A9A&color=325A9A)](../)
+
 
 # Assignment 1: User Story Mapping
 
@@ -55,7 +55,4 @@ A "user story map" is a way to visualize all the features a service may need. It
 * Assignment 1 Grade: 10/10, 100%
 
 <br>
-
-
-[![Button: Takes you back to the main page](https://img.shields.io/badge/%3C%20Back%20to%20Main-325A9A?style=flat&logoColor=325A9A&color=325A9A)](../)
 
