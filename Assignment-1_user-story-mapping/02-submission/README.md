@@ -2,32 +2,32 @@
 
 
 ## Entire User Story Map
-![Overview of User Story Map](lab1-submission-files/Primavera_Lab1_Whole-Overview.png)
+![Overview of User Story Map](../03-submitted-files/Primavera_Lab1_Whole-Overview.png)
 
 ---
 
 ## Close-Up Images
 ### Right Most Side of MVP 1
-![Close-up image of the User Story Map: Shows the right most side of MVP 1](lab1-submission-files/Primavera_Lab1_Closeup-Overview1.png)
+![Close-up image of the User Story Map: Shows the right most side of MVP 1](../03-submitted-files/Primavera_Lab1_Closeup-Overview1.png)
 ### Left Most Side of MVP 1
-![Close-up image of the User Story Map: Shows the left most side of MVP 1](lab1-submission-files/Primavera_Lab1_Closeup-Overview4.png)
+![Close-up image of the User Story Map: Shows the left most side of MVP 1](../03-submitted-files/Primavera_Lab1_Closeup-Overview4.png)
 ### Right Most Side of MVP 2
-![Close-up image of the User Story Map: Shows the right most side of MVP 2](lab1-submission-files/Primavera_Lab1_Closeup-Overview2.png)
+![Close-up image of the User Story Map: Shows the right most side of MVP 2](../03-submitted-files/Primavera_Lab1_Closeup-Overview2.png)
 ### Right Most Side of the Unscheduled Cards
-![Close-up image of the User Story Map: Shows the right most side of the Unscheduled Cards](lab1-submission-files/Primavera_Lab1_Closeup-Overview3.png)
+![Close-up image of the User Story Map: Shows the right most side of the Unscheduled Cards](../03-submitted-files/Primavera_Lab1_Closeup-Overview3.png)
 ### Left Most Side of Both MVP 2 and the Unscheduled Cards
-![Close-up image of the User Story Map: Shows the left most side of MVP 2 and the Unscheduled Cards](lab1-submission-files/Primavera_Lab1_Closeup-Overview5.png)
+![Close-up image of the User Story Map: Shows the left most side of MVP 2 and the Unscheduled Cards](../03-submitted-files/Primavera_Lab1_Closeup-Overview5.png)
 
 ---
 ## Detailed Tasks
-![Detailed description for the "Reorder past order" task](lab1-submission-files/Primavera_Lab1_Detailed-Task-1.png)
-![Detailed description for the "See payment/order confirmation" task](lab1-submission-files/Primavera_Lab1_Detailed-Task-2.png)
-![Detailed description for the "Browse general grocery products" task](lab1-submission-files/Primavera_Lab1_Detailed-Task-3.png)
+![Detailed description for the "Reorder past order" task](../03-submitted-files/Primavera_Lab1_Detailed-Task-1.png)
+![Detailed description for the "See payment/order confirmation" task](../03-submitted-files/Primavera_Lab1_Detailed-Task-2.png)
+![Detailed description for the "Browse general grocery products" task](../03-submitted-files/Primavera_Lab1_Detailed-Task-3.png)
 
 ---
 
 ## Image of GitHub Repo
-![Image of the main page of the github repo](lab1-submission-files/Primavera_Lab1_GitHubRepo.png)
+![Image of the main page of the github repo](../03-submitted-files/Primavera_Lab1_GitHubRepo.png)
 
 ---
 ## Explanation

@@ -6,7 +6,7 @@
 
 * [Submission Overview](02-submission)
   
-    * [Submitted Files](02-submission/lab1-submission-files)
+    * [Submitted Files](03-submitted-files)
 
 <br>
 
